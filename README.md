@@ -58,6 +58,6 @@ Runs the app in the development mode.<br/>
 
 ## Autor
 
-| [<img src="https://avatars.githubusercontent.com/u/49575098?v=4"><br><sub>Andre Hidalgo</sub>](https://github.com/andrehidalgo93) |
+| [<img src="https://avatars.githubusercontent.com/u/49575098?v=4" width="90" /><br><sub>Andre Hidalgo</sub>](https://github.com/andrehidalgo93) |
 | :---------------------------------------------------------------------------------------------------------------------------------------: |
 |                                             [Linkedin](www.linkedin.com/in/andre-hidalgo-045781215)                                             |
