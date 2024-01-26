@@ -1,3 +1,10 @@
+<div align="center">
+
+  <!-- project name -->
+  <h1 align="center">Bat Password Generator</h1>
+
+</div>
+
 ## Preview
 
 <div align="center">
@@ -14,7 +21,7 @@
 
 This project was developed with the following technologies:
 
-<p align="center">
+<p align="left">
   <a href="https://reactnative.dev/doc/getting-started">
     <img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" title="Go to the React Native documentation"/>
   </a>
