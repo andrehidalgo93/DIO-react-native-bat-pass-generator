@@ -58,6 +58,18 @@ Runs the app in the development mode.<br/>
 
 ## Autor
 
-| [<img src="https://avatars.githubusercontent.com/u/49575098?v=4" width="90" /><br><sub>Andre Hidalgo</sub>](https://github.com/andrehidalgo93) |
-| :---------------------------------------------------------------------------------------------------------------------------------------: |
-|                                             [Linkedin](www.linkedin.com/in/andre-hidalgo-045781215)                                             |
+<div align="center">
+  <div>
+    <img src="https://avatars.githubusercontent.com/u/49575098?v=4" width="90" />
+    </br>
+    <p>
+
+<strong strong style="font-size: 14px">[Andre Hidalgo](https://github.com/andrehidalgo93)</strong>
+
+  </div>
+  <p align="center" style="margin-top: 32px;">
+    <a href="https://www.linkedin.com/in/andre-hidalgo-045781215" alt="LinkedIn">
+      <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>  
+    </a>
+  </p>
+</div>
