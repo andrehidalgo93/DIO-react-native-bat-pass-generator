@@ -22,13 +22,13 @@
 This project was developed with the following technologies:
 
 <p align="left">
-  <a href="https://reactnative.dev/doc/getting-started">
+  <a href="https://reactnative.dev/docs/getting-started">
     <img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" title="Go to the React Native documentation"/>
   </a>
   <a href="https://docs.expo.dev">
     <img alt="Expo" src="https://img.shields.io/badge/Expo-000020.svg?style=for-the-badge&logo=Expo&logoColor=white" title="Go to the Expo documentation"/>
   </a>
-  <a href="https://www.typescriptlang.org/doc/">
+  <a href="https://www.typescriptlang.org/docs/">
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" title="Go to the TypeScript documentation"/>
   </a>
 </p>
