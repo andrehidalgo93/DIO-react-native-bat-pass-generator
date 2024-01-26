@@ -41,7 +41,7 @@ You'll need [Node.js](https://nodejs.org) installed on your computer in order to
 
 ```bash
 git clone https://github.com/andrehidalgo93/DIO-react-native-bat-pass-generator.git
-$ cd react-native-bat-pass-generator
+$ cd DIO-react-native-bat-pass-generator
 $ npm install
 $ npm run start
 ```
